@@ -1,0 +1,7 @@
+# Local environment files
+.env
+
+# System files
+.DS_Store
+__pycache__/
+.scratch
