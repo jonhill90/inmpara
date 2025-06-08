@@ -23,6 +23,8 @@ Immediate Capture → Daily Processing → Weekly Pattern Recognition → Projec
 
 ## Folder Structure
 
+- **99 - Meta**: System documentation, templates, and examples
+
 - **0 - Inbox**: Immediate capture of all thoughts, ideas, findings
 - **1 - Notes**: Atomic notes with unique identifiers  
 - **2 - MOCs**: Maps of Content that emerge from note clusters
@@ -48,9 +50,9 @@ Immediate Capture → Daily Processing → Weekly Pattern Recognition → Projec
 
 ## Documentation
 
-- [Detailed Workflow Guide](workflow-guide.md)
-- [Examples and Templates](examples/)
-- [AI Integration Guide](ai-integration.md)
+- [Detailed Workflow Guide](99%20-%20Meta/workflow-guide.md)
+- [Examples and Templates](99%20-%20Meta/examples/)
+- [AI Integration Guide](99%20-%20Meta/ai-integration.md)
 
 ---
 
@@ -67,4 +69,5 @@ Each folder contains a detailed guide explaining its purpose, guidelines, and be
 - [Areas Folder Guide](4%20-%20Areas/README%20-%20Areas%20Folder%20Guide.md) - Ongoing responsibilities
 - [Resources Folder Guide](5%20-%20Resources/README%20-%20Resources%20Folder%20Guide.md) - Reference materials
 - [Archive Folder Guide](6%20-%20Archive/README%20-%20Archive%20Folder%20Guide.md) - Lifecycle management
+- [Meta Folder Guide](99%20-%20Meta/README%20-%20Meta%20Folder%20Guide.md) - System documentation and templates
 
