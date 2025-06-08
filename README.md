@@ -52,6 +52,7 @@ Immediate Capture → Daily Processing → Weekly Pattern Recognition → Projec
 - [Detailed Workflow Guide](99%20-%20Meta/workflow-guide.md)
 - [Examples and Templates](99%20-%20Meta/examples/)
 - [AI Integration Guide](99%20-%20Meta/ai-integration.md)
+- [INMPARA Formatting Standards](99%20-%20Meta/inmpara-formatting-standards.md)
 
 ---
 
