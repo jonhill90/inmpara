@@ -23,8 +23,6 @@ Immediate Capture → Daily Processing → Weekly Pattern Recognition → Projec
 
 ## Folder Structure
 
-- **99 - Meta**: System documentation, templates, and examples
-
 - **0 - Inbox**: Immediate capture of all thoughts, ideas, findings
 - **1 - Notes**: Atomic notes with unique identifiers  
 - **2 - MOCs**: Maps of Content that emerge from note clusters
@@ -32,6 +30,7 @@ Immediate Capture → Daily Processing → Weekly Pattern Recognition → Projec
 - **4 - Areas**: Ongoing responsibilities and long-term interests
 - **5 - Resources**: Stable reference materials
 - **6 - Archive**: Completed or inactive items
+- **99 - Meta**: System documentation, templates, and examples
 
 ## Key Features
 
@@ -70,4 +69,3 @@ Each folder contains a detailed guide explaining its purpose, guidelines, and be
 - [Resources Folder Guide](5%20-%20Resources/README%20-%20Resources%20Folder%20Guide.md) - Reference materials
 - [Archive Folder Guide](6%20-%20Archive/README%20-%20Archive%20Folder%20Guide.md) - Lifecycle management
 - [Meta Folder Guide](99%20-%20Meta/README%20-%20Meta%20Folder%20Guide.md) - System documentation and templates
-
