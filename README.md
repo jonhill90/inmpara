@@ -12,6 +12,22 @@ INMPARA is engineered to match natural thinking patterns by:
 - Minimizing cognitive friction in the capture-to-action pipeline
 - Supporting iterative refinement and connection discovery
 
+
+## Methodological Foundations
+
+INMPARA builds on proven knowledge management methodologies:
+
+- **GTD (Getting Things Done)** - Trusted capture system and clear next actions
+- **PARA** - Actionability-based organization adapted as folders 3-6
+- **Zettelkasten** - Atomic notes with unique identifiers and emergent linking
+- **LYT (Linking Your Thinking)** - Maps of Content and progressive connection discovery
+- **MOC (Map of Content)** - Non-hierarchical content organization through hub notes
+- **BASB (Building a Second Brain)** - CODE methodology with AI-enhanced knowledge work
+
+Rather than choosing one approach, INMPARA synthesizes their strengths into a bottom-up system that lets structure emerge organically while maintaining trusted productivity workflows.
+
+*For detailed methodology explanations and integration guidance, see [Methodological Foundations](99%20-%20Meta/methodological-foundations.md)*
+
 ## Workflow Overview
 
 ```
@@ -52,6 +68,7 @@ Immediate Capture → Daily Processing → Weekly Pattern Recognition → Projec
 - [Detailed Workflow Guide](99%20-%20Meta/workflow-guide.md)
 - [Examples and Templates](99%20-%20Meta/examples/)
 - [AI Integration Guide](99%20-%20Meta/ai-integration.md)
+- [Methodological Foundations](99%20-%20Meta/methodological-foundations.md)
 - [INMPARA Formatting Standards](99%20-%20Meta/inmpara-formatting-standards.md)
 
 ---

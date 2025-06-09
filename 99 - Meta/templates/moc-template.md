@@ -1,17 +1,17 @@
 ---
-title: [Topic] MOC
+title: "Topic MOC"
 type: moc
 tags:
   - moc
-  - [primary-domain]
-  - [technology-area]
-  - [knowledge-cluster]
+  - primary-domain
+  - technology-area
+  - knowledge-cluster
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 status: active
 stage: 2-mocs
-domain: [relevant-domain]
-permalink: 2-mocs/[kebab-case-topic]-moc
+domain: relevant-domain
+permalink: 2-mocs/kebab-case-topic-moc
 ---
 
 # [Topic] MOC
@@ -72,6 +72,10 @@ permalink: 2-mocs/[kebab-case-topic]-moc
 #moc #primary-domain #technology-area #knowledge-cluster
 
 ---
-*Template: Create MOCs when you have 5+ related notes on a topic*
-*Focus: Emergence over structure - let patterns reveal themselves*
-*Goal: Knowledge navigation and insight generation, not just organization*
+*Template Instructions:*
+- *Replace "Topic" with your actual topic name*
+- *Update domain and tags to match your knowledge area*
+- *Create MOCs when you have 5+ related notes on a topic*
+- *Focus: Emergence over structure - let patterns reveal themselves*
+- *Goal: Knowledge navigation and insight generation, not just organization*
+

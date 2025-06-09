@@ -1,16 +1,15 @@
 ---
-title: [Clear Descriptive Title]
+title:
+  - Clear Descriptive Title
 type: note
 tags:
-  - [primary-domain]
-  - [technology-stack]
-  - [content-type]
-  - [specific-focus]
+  - note
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 status: active
 stage: 1-notes
-domain: [ai-systems|cloud-infrastructure|personal-dev|etc]
+domain:
+  - ai-systems|cloud-infrastructure|personal-dev|etc
 permalink: 1-notes/[kebab-case-filename]
 ---
 
